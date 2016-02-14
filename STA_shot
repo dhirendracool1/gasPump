@@ -1,0 +1,1637 @@
+T#1:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+8
+REGULAR IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+14
+RECEIPT IS PRINTED: 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+10
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+9
+SUPER IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $5
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 2
+TOTAL CHARGE: $10
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 2
+TOTAL CHARGE: $10
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 1 minute 8 seconds)
+
+
+T#2:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+4
+CREDIT CARD IS REJECTED.
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+10
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+7
+TRANSACTION IS CANCELLED.
+$10 OF CASH IS RETURNED
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+10
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+8
+REGULAR IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+$10 OF CASH IS RETURNED
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+14
+RECEIPT IS PRINTED: 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 1 minute 23 seconds)
+
+
+T#3:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+7
+TRANSACTION IS CANCELLED.
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 25 seconds)
+
+
+T#4:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+9
+SUPER IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $7
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $7
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 36 seconds)
+
+
+T#5:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+4
+CREDIT CARD IS REJECTED.
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 13 seconds)
+
+
+T#6:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 8 seconds)
+
+
+T#7:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+3
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+9
+SUPER IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+PUMP STOPPED. NOT SUFFICIENT FUNDS. 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+$3 OF CASH IS RETURNED
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 31 seconds)
+
+
+
+T#8:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+6
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+6
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+8
+REGULAR IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+11
+PUMP STOPPED. NOT SUFFICIENT FUNDS. 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+$2 OF CASH IS RETURNED
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+14
+RECEIPT IS PRINTED: 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 22 seconds)
+
+
+T#9:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+8
+REGULAR IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $4
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+4
+CREDIT CARD IS REJECTED.
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 32 seconds)
+
+
+T#10:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+4
+CREDIT CARD IS REJECTED.
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 1 minute 58 seconds)
+
+
+T#11:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+9
+SUPER IS SELECTED.
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $7
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $7
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 2 minutes 3 seconds)
+
+
+T#12:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+5
+CREDIT CARD APPROVED.
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+8
+REGULAR IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+12
+PUMP STOPPED. 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+13
+NO RECEIPT IS PRINTED 
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 1 minute 43 seconds)
+
+
+
+T#13:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+-4
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+-3
+Enter the price for Super fuel:
+2
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+-3
+Enter the price for Super fuel:
+-2
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+3
+CHECKING CREDIT CARD.
+Result=1
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+-4
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+-3
+Enter the price for Super fuel:
+5
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+-3
+Enter the price for Super fuel:
+-4
+Result=0
+Enter your Choice:
+4
+CREDIT CARD IS REJECTED.
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 51 seconds)
+
+T#14:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+-7
+Result=0
+Enter your Choice:
+2
+Result=0
+Enter your Choice:
+3
+Result=0
+Enter your Choice:
+4
+Result=0
+Enter your Choice:
+7
+Result=0
+Enter your Choice:
+5
+Result=0
+Enter your Choice:
+8
+Result=0
+Enter your Choice:
+9
+Result=0
+Enter your Choice:
+10
+Result=0
+Enter your Choice:
+11
+Result=0
+Enter your Choice:
+12
+Result=0
+Enter your Choice:
+13
+Result=0
+Enter your Choice:
+14
+Result=0
+Enter your Choice:
+15
+Result=0
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 36 seconds)
+
+
+T#15:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+7
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+-10
+Result=0
+Enter your Choice:
+6
+Please enter the cash amount
+10
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+7
+TRANSACTION IS CANCELLED.
+$10 OF CASH IS RETURNED
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 20 seconds)
+
+
+T#16:
+
+run:
+Software testing and Analsysis(CS 589)-Project
+----------------------------------------------
+      Prof: Dr. Bogdan Korel
+                                              
+Test Driver for Gas Pump Implementation...
+Enter your choice
+1.Activate
+2.Start
+3.PayCredit
+4.Reject
+5.Approved
+6.PayCash
+7.Cancel
+8.Regular
+9.Super
+10.StartPump
+11.PumpGallon
+12.StopPump
+13.NoReceipt
+14.Receipt
+15.TurnOff
+Enter your Choice:
+1
+Enter the price for Regular fuel:
+4
+Enter the price for Super fuel:
+5
+GAS PUMP IS ON
+Result=1
+Enter your Choice:
+2
+WELCOME!!!
+DO YOU WANT TO PAY BY CASH OR CREDIT CARD?
+Result=1
+Enter your Choice:
+6
+Please enter the cash amount
+10
+SELECT TYPE OF GASOLINE:
+a. REGULAR
+b. SUPER
+Result=1
+Enter your Choice:
+9
+SUPER IS SELECTED.
+Result=1
+Enter your Choice:
+10
+PUMP IS READY TO DISPOSE 
+# OF GALLONS PUMPED: 0
+TOTAL CHARGE: $0
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 1
+TOTAL CHARGE: $5
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+11
+# OF GALLONS PUMPED: 2
+TOTAL CHARGE: $10
+CONTINUE PUMPING
+Result=1
+Enter your Choice:
+11
+PUMP STOPPED. NOT SUFFICIENT FUNDS. 
+# OF GALLONS PUMPED: 2
+TOTAL CHARGE: $10
+DO YOU WANT A RECEIPT?
+Result=1
+Enter your Choice:
+14
+RECEIPT IS PRINTED: 
+# OF GALLONS PUMPED: 2
+TOTAL CHARGE: $10
+Result=1
+Enter your Choice:
+15
+GAS PUMP IS TURNED OFF 
+Result=1
+Enter your Choice:
+
+Exit successfully from the program.
+BUILD SUCCESSFUL (total time: 27 seconds)
+
